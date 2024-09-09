@@ -1,16 +1,16 @@
 <?php
-namespace Event\Raxon\Org\Config;
+namespace Event\Raxon\Config;
 
-use Raxon\Org\App;
-use Raxon\Org\Config;
+use Raxon\App;
+use Raxon\Config;
 
-use Raxon\Org\Module\Core;
-use Raxon\Org\Module\Dir;
+use Raxon\Module\Core;
+use Raxon\Module\Dir;
 
 use Exception;
 
-use Raxon\Org\Exception\ObjectException;
-use Raxon\Org\Module\File;
+use Raxon\Exception\ObjectException;
+use Raxon\Module\File;
 
 class Environment
 {

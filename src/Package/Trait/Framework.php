@@ -1,9 +1,9 @@
 <?php
-namespace Package\Raxon\Org\Config\Trait;
+namespace Package\Raxon\Config\Trait;
 
-use Raxon\Org\Module\Event;
+use Raxon\Module\Event;
 
-use Raxon\Org\Node\Model\Node;
+use Raxon\Node\Model\Node;
 
 use Exception;
 trait Framework {
