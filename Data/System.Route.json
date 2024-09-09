@@ -3,7 +3,7 @@
     "Route": [
       {
         "name": "raxon-org-cli-config",
-        "path": "raxon_org\/config",
+        "path": "raxon\/config",
         "controller": "Package:Raxon:Org:Config:Controller:Cli:run",
         "priority": 1001,
         "request": {
