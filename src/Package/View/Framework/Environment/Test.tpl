@@ -1,2 +1,2 @@
 {{R3M}}
-{{Package.Raxon.Org.Config:Framework:environment('test')}}
+{{Package.Raxon.Config:Framework:environment('test')}}

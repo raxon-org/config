@@ -1,2 +1,2 @@
 {{R3M}}
-{{Package.Raxon.Org.Config:Framework:environment('staging')}}
+{{Package.Raxon.Config:Framework:environment('staging')}}
