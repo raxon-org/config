@@ -1,0 +1,635 @@
+{
+  "name": "ROLE_SYSTEM",
+  "rank": 1,
+  "#class": "Account.Role",
+  "permission": [
+    {
+      "name": "System:Config:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:record.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:read.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:list.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Framework:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Email:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Ramdisk:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Response:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Config:Service:rename",
+      "#class": "Account.Permission"
+    }
+  ]
+}

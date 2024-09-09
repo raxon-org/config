@@ -1,0 +1,166 @@
+{
+    "System": {
+        "Config": {
+            "count": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "create": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "list": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "page": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "patch": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "put": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "read": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            },
+            "record": {
+                "output": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "server",
+                            "service",
+                            "ramdisk",
+                            "email",
+                            "response",
+                            "autoload",
+                            "framework",
+                            "doctrine",
+                            "log"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

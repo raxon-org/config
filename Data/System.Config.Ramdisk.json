@@ -1,0 +1,37 @@
+{
+    "System": {
+        "Config": {
+            "Ramdisk": [
+                {
+                    "#class": "System.Config.Ramdisk",
+                    "file": {
+                        "extension": {
+                            "allow": [
+                                "*"
+                            ]
+                        },
+                        "size": {
+                            "max": "1M"
+                        }
+                    },
+                    "autoload": {
+                        "exclude": {
+                            "load": [
+                                "Controller\\",
+                                "Raxon\\Org\\Module\\Compile"
+                            ],
+                            "content": [
+                                "__DIR__",
+                                "__FILE__"
+                            ]
+                        }
+                    },
+                    "parse": {
+                        "tree": true
+                    },
+                    "size": "1G"
+                }
+            ]
+        }
+    }
+}

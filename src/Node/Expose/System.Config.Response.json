@@ -1,0 +1,184 @@
+{
+    "System": {
+        "Config": {
+            "Response": {
+                "count": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "create": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "list": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "page": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "patch": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "put": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "read": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "text\/html"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "text\/html": {
+                                        "multiple": false,
+                                        "output": [
+                                            "header"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

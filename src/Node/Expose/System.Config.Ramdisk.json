@@ -1,0 +1,400 @@
+{
+    "System": {
+        "Config": {
+            "Ramdisk": {
+                "count": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "create": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "list": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "page": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "patch": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "put": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "read": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "file",
+                                "autoload",
+                                "parse",
+                                "size",
+                                "url",
+                                "name"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "file": {
+                                        "multiple": false,
+                                        "output": [
+                                            "extension",
+                                            "size"
+                                        ],
+                                        "object": {
+                                            "extension": [],
+                                            "size": []
+                                        }
+                                    },
+                                    "autoload": {
+                                        "multiple": false,
+                                        "output": [
+                                            "exclude",
+                                            "require",
+                                            "prefix"
+                                        ],
+                                        "object": {
+                                            "exclude": []
+                                        }
+                                    },
+                                    "parse": {
+                                        "multiple": false,
+                                        "output": [
+                                            "tree"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

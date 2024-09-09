@@ -1,0 +1,18 @@
+{
+    "System": {
+        "Config": {
+            "Service": [
+                {
+                    "#class": "System.Config.Service",
+                    "git": {
+                        "command": []
+                    },
+                    "cron": {
+                        "start": "service cron start -f",
+                        "restart": "service cron restart -f"
+                    }
+                }
+            ]
+        }
+    }
+}

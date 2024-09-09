@@ -1,0 +1,248 @@
+{
+    "System": {
+        "Config": {
+            "Service": {
+                "count": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "create": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "list": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "page": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "patch": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "put": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "read": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "output": [
+                        {
+                            "role": "ROLE_SYSTEM",
+                            "property": [
+                                "uuid",
+                                "#class",
+                                "git",
+                                "cron"
+                            ],
+                            "objects": {
+                                "object": {
+                                    "git": {
+                                        "multiple": false,
+                                        "output": [
+                                            "command"
+                                        ]
+                                    },
+                                    "cron": {
+                                        "multiple": false,
+                                        "output": [
+                                            "start",
+                                            "restart"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

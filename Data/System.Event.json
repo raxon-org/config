@@ -1,0 +1,17 @@
+{
+    "System": {
+        "Event": [
+            {
+                "#class": "System.Event",
+                "action" : "raxon.org.config.framework.environment.set",
+                "options" : {
+                    "command" : [],
+                    "controller" : [
+                        "Event:Raxon:Org:Config:Environment:set"
+                    ],
+                    "priority" : 10
+                }
+            }
+        ]
+    }
+}
