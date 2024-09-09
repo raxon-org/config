@@ -18,7 +18,7 @@
                         "exclude": {
                             "load": [
                                 "Controller\\",
-                                "Raxon\\Org\\Module\\Compile"
+                                "Raxon\\Module\\Compile"
                             ],
                             "content": [
                                 "__DIR__",
