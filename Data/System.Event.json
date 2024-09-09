@@ -7,7 +7,7 @@
                 "options" : {
                     "command" : [],
                     "controller" : [
-                        "Event:Raxon:Org:Config:Environment:set"
+                        "Event:Raxon:Config:Environment:set"
                     ],
                     "priority" : 10
                 }

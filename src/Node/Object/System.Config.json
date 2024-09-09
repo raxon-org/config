@@ -100,7 +100,7 @@
             },
             "output": {
                 "filter":[
-                    "Raxon:Org:Output:Filter:System:Log:output.filter"
+                    "Raxon:Output:Filter:System:Log:output.filter"
                 ]
             }
         },

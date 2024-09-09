@@ -4,7 +4,7 @@
       {
         "name": "raxon-org-cli-config",
         "path": "raxon\/config",
-        "controller": "Package:Raxon:Org:Config:Controller:Cli:run",
+        "controller": "Package:Raxon:Config:Controller:Cli:run",
         "priority": 1001,
         "request": {
           "language": "en"
