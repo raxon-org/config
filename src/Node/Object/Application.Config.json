@@ -1,0 +1,42 @@
+{
+    "Node": {
+        "#class": "System.Config",
+        "type": "object",
+        "property": [
+            {
+                "name": "user",
+                "type": "uuid",
+                "relation": true,
+                "is_multiple": false
+            },
+            {
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "name": "options",
+                "type": "object",
+                "property": [],
+                "multiple": false
+            },
+            {
+                "name": "uuid",
+                "type": "uuid"
+            },
+            {
+                "name": "#class",
+                "type": "string"
+            }
+        ]
+    },
+    "is.unique": [
+        "user, name"
+    ],
+    "relation": [
+        {
+            "type": "one-one",
+            "class": "Account.User",
+            "attribute": "user"
+        }
+    ]
+}

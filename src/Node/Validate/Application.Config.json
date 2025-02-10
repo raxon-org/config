@@ -1,0 +1,81 @@
+{
+    "System": {
+        "Config": {
+            "create": {
+                "validate": {
+                    "uuid": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "user": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "name": [
+                        {
+                            "is.unique": {
+                                "class": "Application.Config",
+                                "attribute": [
+                                    "user",
+                                    "name"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "put": {
+                "validate": {
+                    "uuid": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "user": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "name": [
+                        {
+                            "is.unique": {
+                                "class": "Application.Config",
+                                "attribute": [
+                                    "user",
+                                    "name"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "patch": {
+                "validate": {
+                    "uuid": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "user": [
+                        {
+                            "is.uuid": true
+                        }
+                    ],
+                    "name": [
+                        {
+                            "is.unique": {
+                                "class": "Application.Config",
+                                "attribute": [
+                                    "user",
+                                    "name"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

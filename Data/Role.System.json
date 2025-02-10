@@ -4,6 +4,106 @@
   "#class": "Account.Role",
   "permission": [
     {
+      "name": "Application:Config:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:record.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:read.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:list.parse",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "Application:Config:rename",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Config:commit",
       "#class": "Account.Permission"
     },
