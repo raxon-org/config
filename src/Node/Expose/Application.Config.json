@@ -12,6 +12,16 @@
                             "user",
                             "options"
                         ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
                     }
                 ]
             },
@@ -19,6 +29,16 @@
                 "output": [
                     {
                         "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
                         "property": [
                             "uuid",
                             "#class",
@@ -40,6 +60,16 @@
                             "user",
                             "options"
                         ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
                     }
                 ]
             },
@@ -47,6 +77,16 @@
                 "output": [
                     {
                         "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
                         "property": [
                             "uuid",
                             "#class",
@@ -68,6 +108,16 @@
                             "user",
                             "options"
                         ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
                     }
                 ]
             },
@@ -75,6 +125,16 @@
                 "output": [
                     {
                         "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
                         "property": [
                             "uuid",
                             "#class",
@@ -96,6 +156,16 @@
                             "user",
                             "options"
                         ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
                     }
                 ]
             },
@@ -103,6 +173,16 @@
                 "output": [
                     {
                         "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "name",
+                            "user",
+                            "options"
+                        ]
+                    },
+                    {
+                        "role": "ROLE_ADMIN",
                         "property": [
                             "uuid",
                             "#class",
