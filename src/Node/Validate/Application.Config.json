@@ -1,5 +1,5 @@
 {
-    "System": {
+    "Application": {
         "Config": {
             "create": {
                 "validate": {
