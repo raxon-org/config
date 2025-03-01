@@ -3,7 +3,7 @@ namespace Package\Raxon\Config\Trait;
 
 use Raxon\Module\Event;
 
-use Raxon\Node\Model\Node;
+use Raxon\Node\Module\Node;
 
 use Exception;
 trait Framework {
