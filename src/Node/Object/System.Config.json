@@ -117,7 +117,12 @@
         {
             "type": "one-one",
             "class": "System.Server",
-            "attribute": "server"
+            "attribute": "server",
+            "output": {
+              "filter":[
+                "Raxon:Output:Filter:System:Server:output.filter"
+              ]
+            }
         },
         {
             "type": "one-one",
