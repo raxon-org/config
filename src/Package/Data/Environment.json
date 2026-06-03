@@ -272,8 +272,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -282,8 +282,8 @@
         "owner": "root",
         "group": "root",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -292,8 +292,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -302,8 +302,8 @@
         "owner": "root",
         "group": "root",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -312,8 +312,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -322,8 +322,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -332,8 +332,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -342,8 +342,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -352,8 +352,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -362,8 +362,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -372,8 +372,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -382,8 +382,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -392,8 +392,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -402,8 +402,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -412,8 +412,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -422,8 +422,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 666,
-          "directory": 777
+          "file": 640,
+          "directory": 750
         },
         "recursive": true
       },
@@ -432,8 +432,8 @@
         "owner": "www-data",
         "group": "www-data",
         "chmod": {
-          "file": 777,
-          "directory": 777
+          "file": 750,
+          "directory": 750
         },
         "recursive": true
       }
@@ -443,91 +443,91 @@
         "name": ".gitignore",
         "owner": "www-data",
         "group": "www-data",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "commit.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "enter.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "install.dev.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "install.prod.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "reinstall.dev.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "reinstall.prod.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 777
+        "chmod": 750
       },
       {
         "name": "start.sh",
         "owner": "root",
         "group": "root",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "composer.json",
         "owner": "www-data",
         "group": "www-data",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "composer.lock",
         "owner": "www-data",
         "group": "www-data",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "README.md",
         "owner": "www-data",
         "group": "www-data",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "docker-compose.dev.yml",
         "owner": "root",
         "group": "root",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "docker-compose.prod.yml",
         "owner": "root",
         "group": "root",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "Log/apache_access.log",
         "owner": "root",
         "group": "root",
-        "chmod": 666
+        "chmod": 640
       },
       {
         "name": "Log/apache_error.log",
         "owner": "root",
         "group": "root",
-        "chmod": 666
+        "chmod": 640
       }
     ]
   }
